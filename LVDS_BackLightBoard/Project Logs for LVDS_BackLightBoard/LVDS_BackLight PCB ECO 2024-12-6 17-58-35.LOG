@@ -1,0 +1,61 @@
+Added Component: Designator=C1(C0805)
+Added Component: Designator=C2(C0805)
+Added Component: Designator=C3(C0805)
+Added Component: Designator=C4(C1206)
+Added Component: Designator=D1(SS34_2)
+Added Component: Designator=L1(L_22uH)
+Added Component: Designator=P1(2.0mm_2x19)
+Added Component: Designator=P2(FPC-40P)
+Added Component: Designator=P3(BH35-2P)
+Added Component: Designator=R1(C1206)
+Added Component: Designator=R2(C1206)
+Added Component: Designator=R3(C1206)
+Added Component: Designator=U1(TPS61165BVT)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Pin To Net: NetName=GND Pin=P1-5
+Added Pin To Net: NetName=GND Pin=P1-6
+Added Pin To Net: NetName=GND Pin=P1-13
+Added Pin To Net: NetName=GND Pin=P1-14
+Added Pin To Net: NetName=GND Pin=P1-31
+Added Pin To Net: NetName=GND Pin=P1-32
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Net: Name=GND
+Added Pin To Net: NetName=LCD_PWM Pin=P1-33
+Added Pin To Net: NetName=LCD_PWM Pin=R1-2
+Added Pin To Net: NetName=LCD_PWM Pin=R2-2
+Added Net: Name=LCD_PWM
+Added Pin To Net: NetName=LED+ Pin=C2-2
+Added Pin To Net: NetName=LED+ Pin=D1-1
+Added Pin To Net: NetName=LED+ Pin=P3-1
+Added Net: Name=LED+
+Added Pin To Net: NetName=LED- Pin=P3-2
+Added Pin To Net: NetName=LED- Pin=R3-2
+Added Pin To Net: NetName=LED- Pin=U1-6
+Added Net: Name=LED-
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=U1-5
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=R1-1
+Added Pin To Net: NetName=NetC4_2 Pin=U1-2
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=L1-2
+Added Pin To Net: NetName=NetD1_2 Pin=U1-3
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=VCC Pin=C1-2
+Added Pin To Net: NetName=VCC Pin=L1-1
+Added Pin To Net: NetName=VCC Pin=P1-1
+Added Pin To Net: NetName=VCC Pin=P1-2
+Added Pin To Net: NetName=VCC Pin=P1-3
+Added Pin To Net: NetName=VCC Pin=U1-1
+Added Net: Name=VCC
+Added Class: Name=LVDS_BackLight
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1

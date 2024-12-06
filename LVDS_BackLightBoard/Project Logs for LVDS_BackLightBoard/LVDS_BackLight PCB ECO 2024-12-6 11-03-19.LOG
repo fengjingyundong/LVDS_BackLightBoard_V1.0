@@ -1,0 +1,3 @@
+Removed Member From Class: ClassName=LVDS_BackLight Member=*
+Added Component: Designator=P?(FPC-40P)
+Added Member To Class: ClassName=LVDS_BackLight Member=Component P? FPC-40P
