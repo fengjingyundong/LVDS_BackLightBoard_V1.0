@@ -1,0 +1,72 @@
+Removed Pin From Net: NetName=GND Pin=J1-3
+Removed Pin From Net: NetName=GND Pin=J2-3
+Removed Pin From Net: NetName=GND Pin=U2-9
+Removed Pin From Net: NetName=LVDS0_D0_P Pin=U2-13
+Removed Pin From Net: NetName=LVDS0_D0_N Pin=U2-14
+Removed Pin From Net: NetName=LVDS0_D1_P Pin=U2-15
+Removed Pin From Net: NetName=LVDS0_D1_N Pin=U2-16
+Removed Pin From Net: NetName=GND Pin=U2-17
+Removed Pin From Net: NetName=GND Pin=U2-18
+Removed Pin From Net: NetName=LVDS0_D2_P Pin=U2-19
+Removed Pin From Net: NetName=LVDS0_D2_N Pin=U2-20
+Removed Pin From Net: NetName=LVDS0_DCK_P Pin=U2-21
+Removed Pin From Net: NetName=LVDS0_DCK_N Pin=U2-22
+Removed Pin From Net: NetName=GND Pin=U2-23
+Removed Pin From Net: NetName=GND Pin=U2-24
+Removed Pin From Net: NetName=GND Pin=U2-25
+Removed Pin From Net: NetName=GND Pin=U2-26
+Removed Pin From Net: NetName=GND Pin=U2-37
+Removed Pin From Net: NetName=GND Pin=U2-38
+Removed Pin From Net: NetName=LVDS_CLK_N Pin=U2-39
+Removed Pin From Net: NetName=LVDS_CLK_P Pin=U2-40
+Removed Pin From Net: NetName=LVDS_OUT2_N Pin=U2-41
+Removed Pin From Net: NetName=LVDS_OUT2_P Pin=U2-42
+Removed Pin From Net: NetName=GND Pin=U2-43
+Removed Pin From Net: NetName=GND Pin=U2-44
+Removed Pin From Net: NetName=LVDS_OUT1_N Pin=U2-45
+Removed Pin From Net: NetName=LVDS_OUT1_P Pin=U2-46
+Removed Pin From Net: NetName=LVDS_OUT0_N Pin=U2-47
+Removed Pin From Net: NetName=LVDS_OUT0_P Pin=U2-48
+Removed Member From Class: ClassName=LVDS_BackLight Member=J1
+Removed Member From Class: ClassName=LVDS_BackLight Member=J2
+Removed Member From Class: ClassName=LVDS_Port Member=P4
+Removed Member From Class: ClassName=LVDS_BackLight Member=R4
+Removed Member From Class: ClassName=LVDS_BackLight Member=R8
+Removed Member From Class: ClassName=LVDS_BackLight Member=R9
+Change Component Footprint: Designator=U2 Old Footprint=TQFP-48 New Footprint=AZ1143-04F
+Change Component Comment : Designator=U2 Old Comment=DS90LV004TVS New Comment=AZ1143-04F
+Change Component Designator: OldDesignator=U3 NewDesignator=U5
+Added Component: Designator=U3(AZ1143-04F)
+Added Component: Designator=U4(AZ1143-04F)
+Added Pin To Net: NetName=LVDS0_D0_P Pin=U2-1
+Added Pin To Net: NetName=LVDS0_D0_N Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=LVDS0_D1_P Pin=U2-4
+Added Pin To Net: NetName=LVDS0_D1_N Pin=U2-5
+Added Pin To Net: NetName=LVDS_OUT1_N Pin=U2-6
+Added Pin To Net: NetName=LVDS_OUT1_P Pin=U2-7
+Added Pin To Net: NetName=LVDS_OUT0_N Pin=U2-9
+Added Pin To Net: NetName=LVDS_OUT0_P Pin=U2-10
+Added Pin To Net: NetName=LVDS0_D2_P Pin=U3-1
+Added Pin To Net: NetName=LVDS0_D2_N Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Pin To Net: NetName=LVDS0_D3_P Pin=U3-4
+Added Pin To Net: NetName=LVDS0_D3_N Pin=U3-5
+Added Pin To Net: NetName=GND Pin=U3-8
+Added Pin To Net: NetName=LVDS_OUT2_N Pin=U3-9
+Added Pin To Net: NetName=LVDS_OUT2_P Pin=U3-10
+Added Pin To Net: NetName=LVDS0_DCK_P Pin=U4-1
+Added Pin To Net: NetName=LVDS0_DCK_N Pin=U4-2
+Added Pin To Net: NetName=GND Pin=U4-3
+Added Pin To Net: NetName=GND Pin=U4-8
+Added Pin To Net: NetName=LVDS_CLK_N Pin=U4-9
+Added Pin To Net: NetName=LVDS_CLK_P Pin=U4-10
+Added Pin To Net: NetName=LVDS_OUT3_N Pin=P3-23
+Added Pin To Net: NetName=LVDS_OUT3_N Pin=U3-6
+Added Net: Name=LVDS_OUT3_N
+Added Pin To Net: NetName=LVDS_OUT3_P Pin=P3-22
+Added Pin To Net: NetName=LVDS_OUT3_P Pin=U3-7
+Added Net: Name=LVDS_OUT3_P
+Added Member To Class: ClassName=LVDS_Port Member=Component P3 FPC-40P
+Added Member To Class: ClassName=LVDS_BackLight Member=Component U4 AZ1143-04F
+Added Member To Class: ClassName=LVDS_BackLight Member=Component U5 SCT2230

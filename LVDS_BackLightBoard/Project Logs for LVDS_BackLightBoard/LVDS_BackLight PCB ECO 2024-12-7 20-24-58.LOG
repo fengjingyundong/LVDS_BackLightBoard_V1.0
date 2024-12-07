@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=LVDS_OUT0_P Pin=P2-12
+Removed Pin From Net: NetName=LVDS_OUT0_N Pin=P2-13
+Removed Pin From Net: NetName=LVDS_OUT1_P Pin=P2-14
+Removed Pin From Net: NetName=LVDS_OUT1_N Pin=P2-15
+Removed Pin From Net: NetName=LVDS_OUT2_P Pin=P2-18
+Removed Pin From Net: NetName=LVDS_OUT2_N Pin=P2-19
+Removed Pin From Net: NetName=LVDS_CLK_P Pin=P2-20
+Removed Pin From Net: NetName=LVDS_CLK_N Pin=P2-21
+Removed Member From Class: ClassName=LVDS_BackLight Member=P1
+Removed Member From Class: ClassName=LVDS_BackLight Member=P2
+Change Component Designator: OldDesignator=P3 NewDesignator=P4
+Added Component: Designator=P3(FPC-40P)
+Added Pin To Net: NetName=GND Pin=P2-11
+Added Pin To Net: NetName=GND Pin=P2-16
+Added Pin To Net: NetName=GND Pin=P2-19
+Added Pin To Net: NetName=GND Pin=P2-22
+Added Pin To Net: NetName=LVDS0_DCK_P Pin=P2-23
+Added Pin To Net: NetName=LVDS0_DCK_N Pin=P2-24
+Added Pin To Net: NetName=GND Pin=P2-25
+Added Pin To Net: NetName=LVDS0_D2_P Pin=P2-26
+Added Pin To Net: NetName=LVDS0_D2_N Pin=P2-27
+Added Pin To Net: NetName=GND Pin=P2-28
+Added Pin To Net: NetName=LVDS0_D1_P Pin=P2-29
+Added Pin To Net: NetName=LVDS0_D1_N Pin=P2-30
+Added Pin To Net: NetName=GND Pin=P2-31
+Added Pin To Net: NetName=LVDS0_D0_P Pin=P2-32
+Added Pin To Net: NetName=LVDS0_D0_N Pin=P2-33
+Added Pin To Net: NetName=GND Pin=P2-34
+Added Pin To Net: NetName=+5V Pin=P2-38
+Added Pin To Net: NetName=+5V Pin=P2-39
+Added Pin To Net: NetName=LVDS_OUT0_P Pin=P3-12
+Added Pin To Net: NetName=LVDS_OUT0_N Pin=P3-13
+Added Pin To Net: NetName=LVDS_OUT1_P Pin=P3-14
+Added Pin To Net: NetName=LVDS_OUT1_N Pin=P3-15
+Added Pin To Net: NetName=LVDS_OUT2_P Pin=P3-18
+Added Pin To Net: NetName=LVDS_OUT2_N Pin=P3-19
+Added Pin To Net: NetName=LVDS_CLK_P Pin=P3-20
+Added Pin To Net: NetName=LVDS_CLK_N Pin=P3-21
+Added Pin To Net: NetName=LVDS0_D3_N Pin=P1-17
+Added Pin To Net: NetName=LVDS0_D3_N Pin=P2-21
+Added Net: Name=LVDS0_D3_N
+Added Pin To Net: NetName=LVDS0_D3_P Pin=P1-18
+Added Pin To Net: NetName=LVDS0_D3_P Pin=P2-20
+Added Net: Name=LVDS0_D3_P
+Added Class: Name=LVDS_Port

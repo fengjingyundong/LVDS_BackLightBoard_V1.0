@@ -1,0 +1,25 @@
+Change Component Comment : Designator=U2 Old Comment=' New Comment=DS90LV004TVS
+Added Component: Designator=J1(J_ShortingStub)
+Added Component: Designator=J2(J_ShortingStub)
+Added Component: Designator=R8(C0805)
+Added Component: Designator=R9(C0805)
+Added Pin To Net: NetName=+3.3 Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=+3.3 Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-3
+Added Pin To Net: NetName=LVDS_PEM0 Pin=R8-2
+Added Pin To Net: NetName=LVDS_PEM0 Pin=U2-1
+Added Net: Name=LVDS_PEM0
+Added Pin To Net: NetName=LVDS_PEM1 Pin=R9-2
+Added Pin To Net: NetName=LVDS_PEM1 Pin=U2-2
+Added Net: Name=LVDS_PEM1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=R8-1
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Pin To Net: NetName=NetJ2_2 Pin=R9-1
+Added Net: Name=NetJ2_2
+Added Member To Class: ClassName=LVDS_BackLight Member=Component J1 PEM0
+Added Member To Class: ClassName=LVDS_BackLight Member=Component J2 PEM1
+Added Member To Class: ClassName=LVDS_BackLight Member=Component R8 10K
+Added Member To Class: ClassName=LVDS_BackLight Member=Component R9 10K

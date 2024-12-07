@@ -1,0 +1,10 @@
+Change Component Comment : Designator=C1 Old Comment=4.7 New Comment=4.7uH
+Added Component: Designator=C10(CM D(6.3*7.7))
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电解电容"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "学习资源"; Value = "www.ooocke.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "版权归属"; Value = "源创客"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Change Net Name : Old Net Name=VCC New Net Name=+5V
+Added Member To Class: ClassName=LVDS_BackLight Member=Component C10 120uF 20V SVPF
+Added Rule: Name=Schematic Supply Nets_4
